@@ -19,8 +19,8 @@
         android:layout_height="wrap_content"
         android:text="Hello World!"
         android:background="@color/colorPrimaryDark"
-        android:textColor="@android:color/background_light" />
-
+        android:textColor="@android:color/background_light"
+        android:id="@+id/text1"    />
     <Button
         android:text="Hello"
         android:layout_width="match_parent"
